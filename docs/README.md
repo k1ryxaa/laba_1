@@ -54,7 +54,7 @@ out: 3.14sgi
 in: 2
 out: 8
 ```
-__rectangle__:
+__triangle__:
 * def rectangle(a, h):
 * return a*h/2
 ```angular2html
