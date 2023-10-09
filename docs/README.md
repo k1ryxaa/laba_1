@@ -82,9 +82,4 @@ out: 10
 #### commit 41d3a2c1bc49a7dac762b47f945e05248fe72cbf
 #### Author: Kirill <kirillkuznecov5754@gmail.com>
 #### Date:   Mon Oct 9 19:43:30 2023 +0300
-<<<<<<< HEAD
-=======
 
-
-
->>>>>>> new_1
