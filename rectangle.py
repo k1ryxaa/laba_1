@@ -5,5 +5,5 @@ def area(a, b):
 def perimeter(a, b):
     '''Принимaет число a, b возвращает периметр прямоугольника'''
     return (a + b)*2
-    return a * b
+
 
