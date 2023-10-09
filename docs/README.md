@@ -64,18 +64,24 @@ out: 10
 
 ## История изменений проекта с хешами комитов
 №1
-commit b67f85d816964d302fc65c82843904680036facc 
-Author: Kirill <kirillkuznecov5754@gmail.com>
-Date:   Mon Oct 9 19:16:09 2023 +0300
-
-    style: добавил circle.py
+#### commit 71dda1bd87f1b188b1147f58baa774bf9cbe9d33
+#### Author: Kirill <kirillkuznecov5754@gmail.com>
+#### Date:   Mon Oct 9 19:46:20 2023 +0300
 
 №2
-#### commit d078c8d9ee6155f3cb0e577d28d337b791de28e2
-#### Author: smartiqa <info@smartiqa.ru>
-#### Date:   Thu Mar 4 14:55:29 2021 +0300
-№3
-#### commit f4a0be7eea144b5c9944178cc41427f176c9a5e7
+#### commit 177735a9da2a957cc3bfa7fe919758e05f267873 (HEAD -> new_1)
 #### Author: Kirill <kirillkuznecov5754@gmail.com>
-#### Date:   Sat Sep 23 17:54:23 2023 +0300
+#### Date:   Mon Oct 9 19:47:43 2023 +0300
+
+№3
+#### commit c5f269dc90d02b138ff1d29d6c20052f92769b78
+#### Author: Kirill <kirillkuznecov5754@gmail.com>
+#### Date:   Mon Oct 9 19:44:18 2023 +0300
+
+№4
+#### commit 41d3a2c1bc49a7dac762b47f945e05248fe72cbf
+#### Author: Kirill <kirillkuznecov5754@gmail.com>
+#### Date:   Mon Oct 9 19:43:30 2023 +0300
+
+
 
