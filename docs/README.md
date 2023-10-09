@@ -45,8 +45,8 @@ __square__:
 * def area(r):
 * return a*a
 ```angular2html
-in: 1
-out: 3.14sgi
+in: 5
+out: 25
 ```
 * def perimeter(r):
 * return a*4
