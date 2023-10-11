@@ -28,7 +28,7 @@ ___
 # Описание каждой функции с примерами вызовов
 
 __circle__
-~~~pyton
+~~~python
 def area(r):
 return math.pi * r * r
 ~~~
