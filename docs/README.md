@@ -27,9 +27,11 @@
 ___
 # Описание каждой функции с примерами вызовов
 
-__circle__:
-* def area(r):
-* return math.pi * r * r
+__circle__
+~~~python
+def area(r):
+return math.pi * r * r
+~~~
 ```angular2html
 in: 1
 out: 3.14
