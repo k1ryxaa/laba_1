@@ -1,0 +1,9 @@
+name: Demo
+on: workflow_dispatch
+jobs:
+  print:
+    runs-on: windows-latest
+    steps:
+      - name: print to console
+        run: echo Hellow world
+    
