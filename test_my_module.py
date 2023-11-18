@@ -21,4 +21,3 @@ class CosFunctionTestCase(unittest.TestCase):
     def test_cos_arbitrary(self):
         # Значение cos(π/4) должно быть равно sqrt(2)/2
         self.assertAlmostEqual(cos(pi / 4), sqrt(2)/2)
-
