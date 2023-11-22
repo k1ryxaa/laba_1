@@ -17,8 +17,7 @@ class CosFunctionTestCase(unittest.TestCase):
     def test_cos_two_pi(self):
         self.assertAlmostEqual(cos(2 * pi), 1.0)
 
-    def test_cos_two_pi(self):
-        self.assertAlmostEqual(cos(2 * pi), 1.0)
+
 
     # Дополнительный тест на произвольное значение
     def test_cos_arbitrary(self):
